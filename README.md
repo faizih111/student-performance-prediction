@@ -76,14 +76,3 @@ print("MSE:", mse)
 MAE ≈ 1.85 → average error in predicted grades
 
 MSE ≈ 6.62 → penalizes larger errors
-
-Summary
-Dataset cleaned and numeric
-
-Features and target defined
-
-Linear Regression trained and predictions made
-
-Model performance evaluated using MAE and MSE
-
-Project is ready for analysis and further improvement
